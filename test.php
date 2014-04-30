@@ -5,6 +5,7 @@ class Sublime
 {
 
 	public $test;
+	private $hoga;
 
 	public function Test()
 	{
