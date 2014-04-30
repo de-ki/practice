@@ -6,6 +6,7 @@ class Sublime
 
 	public $test;
 	private $hoga;
+	private $fuge;
 
 	public function Test()
 	{
